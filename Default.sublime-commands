@@ -1,6 +1,5 @@
 [
-	{
-		"caption": "Clipboard History",
-		"command": "clipboard_display"
-	}
+	{ "caption": "Clipboard: History", "command": "clipboard_display" },
+	{ "caption": "Clipboard: Paste Previous", "command": "clipboard_paste_previous"},
+	{ "caption": "Clipboard: Paste Next", "command": "clipboard_paste_next"}
 ]
